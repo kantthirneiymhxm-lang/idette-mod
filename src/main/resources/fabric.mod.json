@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "idettemod",
+  "version": "${version}",
+  "name": "Idette Mod",
+  "description": "ไอเด็ตต์ ตกลงมาในแคปซูล ต้องรักษาเธอ",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.idette.IdetteMod"],
+    "client": ["com.idette.IdetteClient"]
+  },
+  "depends": { "fabricloader": ">=0.15.0", "minecraft": "~1.20.1", "java": ">=17", "fabric-api": "*" }
+}

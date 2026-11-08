@@ -1,0 +1,13 @@
+{
+  "entity.idettemod.idette": "ไอเด็ตต์",
+  "entity.idettemod.sujin": "ซูจิน",
+  "entity.idettemod.chanel": "ชาแนล",
+  "entity.idettemod.capsule": "แคปซูล",
+  "entity.idettemod.candy_bomb": "ลูกอมระเบิด",
+  "entity.idettemod.giant_candy": "แคนดี้ยักษ์",
+  "item.idettemod.capsule_signal": "สัญญาณแคปซูล: ไอเด็ตต์",
+  "item.idettemod.capsule_signal_sujin": "สัญญาณแคปซูล: ซูจิน",
+  "item.idettemod.capsule_signal_chanel": "สัญญาณแคปซูล: ชาแนล",
+  "item.idettemod.coin": "เหรียญ",
+  "entity.idettemod.child": "ลูก"
+}
